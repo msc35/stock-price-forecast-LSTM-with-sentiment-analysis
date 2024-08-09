@@ -45,6 +45,9 @@ You can replace the Finnhub API with any other API that provides financial news 
 ## Results:
 The following plot shows the comparison between the actual and predicted stock prices for AAPL over a one-year period:
 
+![AAPL Stock Price Prediction](results_plot.png)
+
+
 
 As seen in the plot, the model effectively captures the trends in stock prices, though some discrepancies are present, which could be further refined with additional tuning and data.
 
