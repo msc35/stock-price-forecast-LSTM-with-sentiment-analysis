@@ -28,3 +28,21 @@ To run this project, you will need the following Python libraries:
 - `keras-tuner`
 - `matplotlib`
 
+
+
+## Data Sources
+
+### Stock Price Data:
+The stock price data is fetched using the yfinance library, which provides an easy-to-use interface for downloading historical market data from Yahoo Finance.
+
+### Sentiment Data:
+The sentiment data is derived from financial news articles using the FinBERT model. News articles are fetched using the Finnhub API.
+
+#### Tip: 
+You can replace the Finnhub API with any other API that provides financial news data, depending on your requirements and preferences.
+
+
+## Results:
+
+
+
